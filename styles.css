@@ -1,13 +1,16 @@
 
 #dp {
     border: 4px solid #ffffff;
+    width: 20%;
+    height: 20%;
     border-radius: 50%;
     margin: 25px;
-    float: left;
+    float: right;
 }
 
-#pronoun {
+.pronoun {
     font-size: 30px;
+    color: white;
 }
 
 #designation {
@@ -28,6 +31,10 @@
 #mainInfo, .headings {
     color: #ffffff;
     padding: 1px 25px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
 }
 
 .contacts {
