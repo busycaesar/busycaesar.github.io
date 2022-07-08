@@ -1,0 +1,65 @@
+
+#dp {
+    border: 4px solid #ffffff;
+    border-radius: 50%;
+    margin: 25px;
+    float: left;
+}
+
+#pronoun {
+    font-size: 30px;
+}
+
+#designation {
+    color: #ffffff;
+    margin-left: 30px;
+}
+
+.header, .headings {
+    background-color: #000000;
+}
+
+#headingName {
+    color: #ffffff;
+    margin-top: 30px;
+    font-size: 80px;
+}
+
+#mainInfo, .headings {
+    color: #ffffff;
+    padding: 1px 25px;
+}
+
+.contacts {
+    margin-top: 10px;
+    border-radius: 30px;
+}
+
+.profileLinks {    
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.logos {
+    margin-left: 7px;
+    border-radius: 10px;
+}
+
+.skillslogos {
+    margin-top: 7px;
+border-radius: 30px;
+}
+
+.fonts {
+    font-family: sans-serif;
+}
+
+.font-size {
+    font-size: 25px;
+}
+
+.workexp {
+    float: left;
+    border: 4px solid #ffffff;
+    margin-right: 10px;
+}
