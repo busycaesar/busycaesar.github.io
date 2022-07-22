@@ -63,7 +63,8 @@ text-decoration: none;
 #firstpage
 {
 
-height: 100%;
+height: auto;
+width: auto;
 
 }
 
