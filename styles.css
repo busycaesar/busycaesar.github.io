@@ -43,13 +43,16 @@ a:link, a:visited
 {
 
 text-decoration: none;
+color: #01172F;
 
 }
 
 .profileLinks
 {    
 
-    margin-top: 1%;
+margin-left: 1%;
+margin-bottom: 1%;
+    border-radius: 10px;
 
 }
 
@@ -57,14 +60,6 @@ text-decoration: none;
 {    
 
     border-radius: 20%;
-
-}
-
-#firstpage
-{
-
-height: auto;
-width: auto;
 
 }
 
@@ -112,6 +107,13 @@ h2
     display: table;
     clear: both;
   
+} 
+
+.logos
+{
+
+    border-radius: 10px;
+
 }
 
 /*
